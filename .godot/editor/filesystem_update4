@@ -1,0 +1,15 @@
+res://Systems/Game/Main.cs
+res://UI/UIManager.cs
+res://Systems/Map/Roads.cs
+res://Systems/Resources/ResourceManager.cs
+res://Systems/Map/Border.cs
+res://Systems/SaveLoad/InitSaveAndLoad.cs
+res://Systems/Cameras/Camera.cs
+res://Systems/Map/MapManager.cs
+res://Systems/Map/ColoredProvincesSprite.cs
+res://Systems/ResourcePopup/ResourcePopup.cs
+res://Scenes/ResourcePopup.tscn
+res://Shaders/ResourcePopup.gdshader
+res://tilesets/tilesetTest.tres
+res://tilesets/BorderHighlight.tres
+res://Scenes/main.tscn
