@@ -1,4 +1,10 @@
-# KingsOfResource
+# KingsOfResource (Godot version 4.4 .NET)
+
+#Controls
+q: see provinces map mode
+F5: save .json save file
+F9: load .json save file (not implemented)
+WASD: camera control
 
 # GDD
 
